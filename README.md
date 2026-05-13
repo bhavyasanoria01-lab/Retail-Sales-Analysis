@@ -48,7 +48,7 @@ After cleaning, the data was imported into MySQL and 12 business questions were 
 
 ![Dashboard Page 1](https://github.com/bhavyasanoria01-lab/Retail-Sales-Analysis/blob/main/Dashboard%20Page%201.png)
 
-![Dashboard Page 2](/screenshots/Dashboard%20Page%202.png)
+![Dashboard Page 2](https://github.com/bhavyasanoria01-lab/Retail-Sales-Analysis/blob/8670686596e782a85922ba41b61211f852a8eec8/Dashboard%20Page%202.png)
 
 ##  📝 Learnings & Challenges
 This was my first end-to-end analytics project. The biggest challenge was handling the date column during Python cleaning which required regenerating clean dates before the Power BI dashboard could be completed. I also learned the importance of reading business questions carefully because a few SQL queries initially returned the wrong metric because I misread what was being asked.
