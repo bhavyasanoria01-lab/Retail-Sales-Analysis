@@ -46,7 +46,7 @@ After cleaning, the data was imported into MySQL and 12 business questions were 
 
 ##  📊 Dashboard Preview
 
-![Dashboard Page 1](/screenshots/Dashboard%20Page%201.png)
+Dashboard Page 1.png
 
 
 ![Dashboard Page 2](/screenshots/Dashboard%20Page%202.png)
